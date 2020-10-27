@@ -1,2 +1,2 @@
-FROM httpd
+FROM busybox
 RUN "uptime"
