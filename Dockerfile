@@ -1,2 +1,2 @@
-FROM ngnix
+FROM httpd
 RUN "echo hi"
