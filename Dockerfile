@@ -1,2 +1,2 @@
 FROM httpd
-RUN "echo hi"
+RUN "uptime"
